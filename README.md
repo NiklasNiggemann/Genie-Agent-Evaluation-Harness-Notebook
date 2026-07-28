@@ -48,9 +48,3 @@ To adapt it to your own Genie Agent:
 ## Terminology Note (July 2026)
 
 Databricks renamed *Genie Spaces* to **Genie Agents** and introduced the **Genie Ontology** (instructions, example SQL, join specs, synonyms, prompt matching). The underlying Conversation API (`/api/2.0/genie/spaces/`) is unchanged — this harness works against both the legacy and new naming. Native Benchmarks now exist in the Genie UI for lightweight testing; this notebook adds MLflow-tracked semantic scoring, CI/CD embeddability, and full control over the judge prompt.
-
-## Further Reading
-
-- [Part 01: The Semantic Layer: Shared Business Meaning as Infrastructure](https://www.databricks.com/blog/semantic-layer-architecture-components-design-patterns-and-ai-integration)
-- [Part 02: Managing the Hidden Technical Debt of Generative AI](https://www.databricks.com/blog/hidden-technical-debt-genai-systems)
-- [Part 03: Reliable by Design: Building an Evaluation Harness for Databricks Genie](https://www.databricks.com/blog/reliable-by-design-evaluation-harness-databricks-genie)
