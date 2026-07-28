@@ -1,6 +1,6 @@
 # Genie Agent Evaluation Harness
 
-A programmatic framework for testing and improving [Databricks Genie Agents](https://www.databricks.com/product/databricks-genie) — the natural-language "Ask Your Data" interface, accessible standalone or via Genie One.
+A programmatic framework for testing and improving [Databricks Genie Agents](https://www.databricks.com/product/genie/agents) — the natural-language "Ask Your Data" interface, accessible standalone or via Genie One.
 
 ## Overview
 
